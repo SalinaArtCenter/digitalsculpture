@@ -1,0 +1,13 @@
+{
+  "debug": true,
+  "trackingMethod": "best",
+  "maxDetectionRate": 30,
+  "detectionMode": "mono",
+  "matrixCodeType": "3x3",
+  "patternRatio": 0.75,
+  "cameraParametersUrl": "camera_para.dat",
+  "markersAreaEnabled": false,
+  "nftWorkerUrl": "https://cdn.jsdelivr.net/npm/arjs-nft@1.2.0/nft/worker.min.js",
+  "route": "assets",
+  "debugUIEnabled": false
+}
